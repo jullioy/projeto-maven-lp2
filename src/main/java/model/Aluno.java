@@ -12,4 +12,5 @@ import lombok.NoArgsConstructor;
 public class Aluno {
 	private UUID id;
 	private String nome;
+	private String matricula;
 }
